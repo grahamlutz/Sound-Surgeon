@@ -102,6 +102,8 @@ Thumbs.db
 output/
 examples/*.pdf
 examples/*.txt
+audio_output/
+pretrained_models/
 
 # Logs
 *.log
